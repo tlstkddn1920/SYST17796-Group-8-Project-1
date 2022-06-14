@@ -11,6 +11,7 @@ package ca.sheridancollege.project;
  * @author The Fishers
  * @author Micah Garnett
  * @author Adam Shin
+ * @author Shubham Malik
  */
 public abstract class Player {
 
