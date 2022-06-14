@@ -11,7 +11,7 @@ package ca.sheridancollege.project;
  * @author The Fisher
  * @author Adam Shin
  * @author Micah Garnett
- * @author
+ * @author Shubham Malik
  */
 public abstract class Card {
     //default modifier for child classes
