@@ -14,8 +14,8 @@ import java.util.Collections;
  *
  * @author The Fisher
  * @author Adam Shin
- * @author Prem Parashar
  * @author Micah Garnett
+ * @author 
  */
 public class GroupOfCards {
 
