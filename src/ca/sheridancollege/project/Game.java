@@ -13,7 +13,7 @@ import java.util.ArrayList;
  *
  * @author The Fisher
  * @author Adam Shin
- * @author 
+ * @author Micah Garnett
  * @author 
  */
 public abstract class Game {
