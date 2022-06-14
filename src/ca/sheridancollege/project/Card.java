@@ -10,7 +10,7 @@ package ca.sheridancollege.project;
  * game. Students wishing to add to the code should remember to add themselves as a modifier.
  * @author The Fisher
  * @author Adam Shin
- * @author
+ * @author Micah Garnett
  * @author
  */
 public abstract class Card {
