@@ -15,7 +15,29 @@ package ca.sheridancollege.project;
  */
 public abstract class Card {
     //default modifier for child classes
-
+  //Private variables
+  private int suit; 
+  private int rank; 
+  private String[] cardSuit = {"Clubs", "Spades", "Hearts", "Diamonds"};
+  private String[] cardRank = {"2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"};
+  
+  
+  public Card(int s, int r) 
+  {
+      suit = s;
+      rank = r;
+  }
+  
+  //Returns the value of the suit of the card.
+  public String getSuit(){
+      return cardSuit[suit];
+  }
+  
+  //Returns the value of the rank of the card.
+  public String getRank(){
+      return cardRank[rank];
+  }
+  
     /**
      * Students should implement this method for their specific children classes
      *
